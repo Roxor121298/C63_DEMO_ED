@@ -1,0 +1,15 @@
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\bin\Debug\net8.0\C63Demo-Ed.exe
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\bin\Debug\net8.0\C63Demo-Ed.deps.json
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\bin\Debug\net8.0\C63Demo-Ed.runtimeconfig.json
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\bin\Debug\net8.0\C63Demo-Ed.dll
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\bin\Debug\net8.0\C63Demo-Ed.pdb
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.AssemblyInfoInputs.cache
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.AssemblyInfo.cs
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.csproj.CoreCompileInputs.cache
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.sourcelink.json
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.dll
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\refint\C63Demo-Ed.dll
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.pdb
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\C63Demo-Ed.genruntimeconfig.cache
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\C63Demo-Ed\obj\Debug\net8.0\ref\C63Demo-Ed.dll
