@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "intro_c++_Ed", "intro_c++_E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercise_logger_ed", "exercise_logger_ed\exercise_logger_ed.vcxproj", "{C4A495C5-3B34-46B0-9366-32B8BB445BF1}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CtorConstDebug", "Projet_CtorConstDebug\CtorConstDebug\CtorConstDebug.vcxproj", "{29B4C836-7125-41BF-9254-7AC83D41BBD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -55,6 +57,18 @@ Global
 		{C4A495C5-3B34-46B0-9366-32B8BB445BF1}.Release|x64.Build.0 = Release|x64
 		{C4A495C5-3B34-46B0-9366-32B8BB445BF1}.Release|x86.ActiveCfg = Release|Win32
 		{C4A495C5-3B34-46B0-9366-32B8BB445BF1}.Release|x86.Build.0 = Release|Win32
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|Any CPU.Build.0 = Debug|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|x64.ActiveCfg = Debug|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|x64.Build.0 = Debug|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Debug|x86.Build.0 = Debug|Win32
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|Any CPU.ActiveCfg = Release|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|Any CPU.Build.0 = Release|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|x64.ActiveCfg = Release|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|x64.Build.0 = Release|x64
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|x86.ActiveCfg = Release|Win32
+		{29B4C836-7125-41BF-9254-7AC83D41BBD3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

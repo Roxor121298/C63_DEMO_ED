@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|solutionrelative:exercise_logger_ed\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|solutionrelative:exercise_logger_ed\\Logger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\exercise_logger_ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|solutionrelative:exercise_logger_ed\\exercise_logger_ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,35 +36,48 @@
               "RelativeDocumentMoniker": "exercise_logger_ed\\Logger.cpp",
               "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.cpp",
               "RelativeToolTip": "exercise_logger_ed\\Logger.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T19:41:28.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Logger.h",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.h",
-              "RelativeDocumentMoniker": "exercise_logger_ed\\Logger.h",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.h",
-              "RelativeToolTip": "exercise_logger_ed\\Logger.h",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACoAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-27T19:40:56.454Z",
+              "WhenOpened": "2025-01-31T17:56:05.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "exercise_logger_ed.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\exercise_logger_ed.cpp",
-              "RelativeDocumentMoniker": "exercise_logger_ed\\exercise_logger_ed.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\exercise_logger_ed.cpp",
-              "RelativeToolTip": "exercise_logger_ed\\exercise_logger_ed.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Title": "Goblin.h",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
+              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
+              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-01-31T17:10:47.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Goblin.cpp",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
+              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
+              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-27T18:25:55.376Z",
+              "WhenOpened": "2025-01-31T16:55:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CtorConstDebug.cpp",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
+              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
+              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T16:55:44.109Z",
               "EditorCaption": ""
             }
           ]

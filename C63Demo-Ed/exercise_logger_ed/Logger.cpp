@@ -13,7 +13,7 @@ void LoopEngine::Logger::ActivateConsoleTrace(bool InIsActive) { this->_IsConsol
 
 void LoopEngine::Logger::SetLoggingLevel(const TLevel InLoggingLevel) { this->_LoggingLevel = InLoggingLevel;}
 
-void LoopEngine::Logger::Log(string msg, const TLevel InLoggingLevel) const { cout << msg + ((String)InLoggingLevel);  }
+void LoopEngine::Logger::Log(string msg, const TLevel InLoggingLevel) const {  }
 
 void LoopEngine::Logger::ActivateFileTrace(bool InIsActive){}
 

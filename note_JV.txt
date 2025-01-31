@@ -1,0 +1,49 @@
+script vs interprété
+
+
+language compilé vs interprété 
+
+
+ex : python (interprété)
+
+A = S -> COMPILE -> GÉNÈRE ASSEMBLEUR -> ÉXÉCUTÉ
+
+ex : c++ (compilé) 
+
+A = S -> COMPILE -> ÉXÉCUTÉ
+
+
+ctor n'es tpas défini ( erreur probable de création et destrcution d'un object)
+
+
+
+
+surcharge vs héritage superclasse
+
+	Dans c++ on a besoin d'un destructeur aussi pas juste d'un constructeur
+
+f12 pour switcher de la declaration a la définition (du .h vers le .cpp et vise versa)
+
+un object automatique est un object générer sans pointeur
+	Les object automatique delete automatiquement a la fin de sont bloc {}
+
+
+const : meme affaire que dhabitude mais ce rappeler que cpp veut de la PRÉCISION
+
+	quand tu est dans un classe et que tu met const a la fin c'est pour dire que this ne modifie pas l'object.
+
+
+reference : Variable qui fait ref a un autre variable. C'est utile a cause de spointeurs cpp
+
+
+ex : "float& refA =a; 
+refA += 10.0f;
+cout << a << endl;
+
+
+assert(false) -> faire crasher le programme de manière contrôler
+
+
+erreur jeton non reconnu == ta fait un charactère invisible retaper la ligne yes
+
+	
