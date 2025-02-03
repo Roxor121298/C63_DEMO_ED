@@ -4,10 +4,14 @@
 #include <iostream>
 #include <cassert>
 #include "Logger.h"
+#include <windows.h>
 using namespace LoopEngine;
 
 int main()
 {
+
+    SetConsoleOutputCP(1252);
+
     //Écriture dans la console et le fichier "C63Demo/Exercice-Logger/LoopEngine.log"
     Logger* log = new Logger(Logger::TLevel::eINFO, true, true);
     assert(log != nullptr);

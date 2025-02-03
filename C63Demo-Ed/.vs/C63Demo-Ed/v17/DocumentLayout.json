@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C4A495C5-3B34-46B0-9366-32B8BB445BF1}|exercise_logger_ed\\exercise_logger_ed.vcxproj|solutionrelative:exercise_logger_ed\\Logger.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{5F757281-ABC3-4340-9C84-ACAA13DFA509}|exercise-dessin-ed\\exercise-dessin-ed.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5F757281-ABC3-4340-9C84-ACAA13DFA509}|exercise-dessin-ed\\exercise-dessin-ed.vcxproj|solutionrelative:exercise-dessin-ed\\exercise-dessin-ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C17EB48C-A002-421D-BD08-A16B5CEB44DB}|test_ray_lib\\test_ray_lib.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C17EB48C-A002-421D-BD08-A16B5CEB44DB}|test_ray_lib\\test_ray_lib.vcxproj|solutionrelative:test_ray_lib\\test_ray_lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{29B4C836-7125-41BF-9254-7AC83D41BBD3}|Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.vcxproj|solutionrelative:Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E89D61AC-55DE-4482-AFD4-DF7242EBC859}|raylib\\projects\\VS2022\\raylib\\raylib.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E89D61AC-55DE-4482-AFD4-DF7242EBC859}|raylib\\projects\\VS2022\\raylib\\raylib.vcxproj|solutionrelative:raylib\\src\\raylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,58 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Logger.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.cpp",
-              "RelativeDocumentMoniker": "exercise_logger_ed\\Logger.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_logger_ed\\Logger.cpp",
-              "RelativeToolTip": "exercise_logger_ed\\Logger.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T17:56:05.851Z",
+              "DocumentIndex": 1,
+              "Title": "test_ray_lib.c",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
+              "RelativeDocumentMoniker": "test_ray_lib\\test_ray_lib.c",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
+              "RelativeToolTip": "test_ray_lib\\test_ray_lib.c",
+              "ViewState": "AQIAAMoAAAAAAAAAAAAewN8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-03T19:13:25.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Goblin.h",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
-              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
-              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAKAAAA",
+              "Title": "raylib.h",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h",
+              "RelativeDocumentMoniker": "raylib\\src\\raylib.h",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h",
+              "RelativeToolTip": "raylib\\src\\raylib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-31T17:10:47.608Z",
+              "WhenOpened": "2025-02-03T19:11:53.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Goblin.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
-              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
-              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\Goblin.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
+              "DocumentIndex": 0,
+              "Title": "exercise-dessin-ed.cpp",
+              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "RelativeDocumentMoniker": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "RelativeToolTip": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T16:55:44.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CtorConstDebug.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
-              "RelativeDocumentMoniker": "Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
-              "RelativeToolTip": "Projet_CtorConstDebug\\CtorConstDebug\\CtorConstDebug.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-01-31T16:55:44.109Z",
+              "WhenOpened": "2025-02-03T19:07:25.403Z",
               "EditorCaption": ""
             }
           ]

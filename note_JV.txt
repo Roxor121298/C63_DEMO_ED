@@ -46,4 +46,15 @@ assert(false) -> faire crasher le programme de manière contrôler
 
 erreur jeton non reconnu == ta fait un charactère invisible retaper la ligne yes
 
+
+Le c++ a pour particularité d'avoir un pré compilateur
+celui-ci compile les #include et #define pour créer de novueau fichier pré interprété
+
+
+copy ($SolutionDir)\build\raylib\bin\x64\Debug\* $(ProjectDir)
+
+
+
+
+
 	

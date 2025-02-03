@@ -1,0 +1,3 @@
+﻿  Le chemin d'accès spécifié est introuvable.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: La commande "copy ($SolutionDir)\build\raylib\bin\x64\Debug\* C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: :VCEnd" s'est arrêtée avec le code 1.
