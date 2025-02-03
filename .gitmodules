@@ -1,0 +1,3 @@
+[submodule "C63Demo-Ed/raylib"]
+	path = C63Demo-Ed/raylib
+	url = https://github.com/raysan5/raylib.git
