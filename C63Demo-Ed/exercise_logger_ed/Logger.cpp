@@ -1,34 +1,90 @@
 #include "Logger.h"
 #include <iostream>
-#include <String>
-
+#include <fstream>
+#include <cassert>
 
 using namespace std;
 
-LoopEngine::Logger::Logger(const TLevel InLoggingLevel, bool InConsoleTraceActive, bool InFileTraceActive){}
+namespace LoopEngine {
 
-LoopEngine::Logger::~Logger(){}
+    Logger::Logger(const TLevel InLoggingLevel, bool InConsoleTraceActive, bool InFileTraceActive)
+        : _LoggingLevel(InLoggingLevel), _IsConsoleTraceActive(InConsoleTraceActive), _IsFileTraceActive(InFileTraceActive), _ptrFileStream(nullptr) {
+        if (_IsFileTraceActive) {
+            TryOpenFile();
+        }
+    }
 
-void LoopEngine::Logger::ActivateConsoleTrace(bool InIsActive) { this->_IsConsoleTraceActive = InIsActive; }
+    Logger::~Logger() {
+        TryCloseFile();
+    }
 
-void LoopEngine::Logger::SetLoggingLevel(const TLevel InLoggingLevel) { this->_LoggingLevel = InLoggingLevel;}
+    void Logger::ActivateConsoleTrace(bool InIsActive) {
+        _IsConsoleTraceActive = InIsActive;
+    }
 
-void LoopEngine::Logger::Log(string msg, const TLevel InLoggingLevel) const {  }
+    void Logger::SetLoggingLevel(const TLevel InLoggingLevel) {
+        _LoggingLevel = InLoggingLevel;
+    }
 
-void LoopEngine::Logger::ActivateFileTrace(bool InIsActive){}
+    void Logger::SetAbortLevel(const TLevel InAbortLevel) {
+        _AbortLevel = InAbortLevel;
+    }
 
-void LoopEngine::Logger::ActivateFileTrace(bool InIsActive, const string& InFileName){}
+    void Logger::Log(string msg, const TLevel InLoggingLevel) const {
+        if (InLoggingLevel < _LoggingLevel) return;
 
-void LoopEngine::Logger::SetFileTraceName(const string InFileTraceName){}
+        if (_IsConsoleTraceActive) {
+            cout << msg << endl;
+        }
 
-void LoopEngine::Logger::SetAbortLevel(const TLevel InAbortLevel){}
+        if (_IsFileTraceActive && _ptrFileStream) {
+            (*_ptrFileStream) << msg << endl;
+        }
 
-bool LoopEngine::Logger::TryOpenFile()
-{
-	return false;
-}
+        if (InLoggingLevel >= _AbortLevel) {
+            abort();
+        }
+    }
 
-bool LoopEngine::Logger::TryCloseFile()
-{
-	return false;
+    void Logger::ActivateFileTrace(bool InIsActive) {
+        if (_IsFileTraceActive == InIsActive) return;
+        _IsFileTraceActive = InIsActive;
+        if (_IsFileTraceActive) {
+            TryOpenFile();
+        }
+        else {
+            TryCloseFile();
+        }
+    }
+
+    void Logger::ActivateFileTrace(bool InIsActive, const string& InFileName) {
+        SetFileTraceName(InFileName);
+        ActivateFileTrace(InIsActive);
+    }
+
+    void Logger::SetFileTraceName(const string InFileTraceName) {
+        if (InFileTraceName.empty()) {
+            Log("Erreur: Le nom du fichier de log est vide.", TLevel::eERROR);
+            return;
+        }
+        _TraceFileName = InFileTraceName;
+        TryOpenFile();
+    }
+
+    bool Logger::TryOpenFile() {
+        TryCloseFile();
+        _ptrFileStream = new ofstream(_TraceFileName, ios::app);
+        return _ptrFileStream->is_open();
+    }
+
+    bool Logger::TryCloseFile() {
+        if (_ptrFileStream) {
+            _ptrFileStream->close();
+            delete _ptrFileStream;
+            _ptrFileStream = nullptr;
+            return true;
+        }
+        return false;
+    }
+
 }
