@@ -1,18 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\",
+  "WorkspaceRootPath": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F757281-ABC3-4340-9C84-ACAA13DFA509}|exercise-dessin-ed\\exercise-dessin-ed.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5F757281-ABC3-4340-9C84-ACAA13DFA509}|exercise-dessin-ed\\exercise-dessin-ed.vcxproj|D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5F757281-ABC3-4340-9C84-ACAA13DFA509}|exercise-dessin-ed\\exercise-dessin-ed.vcxproj|solutionrelative:exercise-dessin-ed\\exercise-dessin-ed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C17EB48C-A002-421D-BD08-A16B5CEB44DB}|test_ray_lib\\test_ray_lib.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C17EB48C-A002-421D-BD08-A16B5CEB44DB}|test_ray_lib\\test_ray_lib.vcxproj|D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C17EB48C-A002-421D-BD08-A16B5CEB44DB}|test_ray_lib\\test_ray_lib.vcxproj|solutionrelative:test_ray_lib\\test_ray_lib.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E89D61AC-55DE-4482-AFD4-DF7242EBC859}|raylib\\projects\\VS2022\\raylib\\raylib.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E89D61AC-55DE-4482-AFD4-DF7242EBC859}|raylib\\projects\\VS2022\\raylib\\raylib.vcxproj|solutionrelative:raylib\\src\\raylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +24,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exercise-dessin-ed.cpp",
+              "DocumentMoniker": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "RelativeDocumentMoniker": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "ToolTip": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "RelativeToolTip": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T19:07:25.403Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Microsoft.CppCommon.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppCommon.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-02-05T20:31:24.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "test_ray_lib.c",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
+              "DocumentMoniker": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
               "RelativeDocumentMoniker": "test_ray_lib\\test_ray_lib.c",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
+              "ToolTip": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\test_ray_lib\\test_ray_lib.c",
               "RelativeToolTip": "test_ray_lib\\test_ray_lib.c",
-              "ViewState": "AQIAAMoAAAAAAAAAAAAewN8AAAAQAAAA",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAmwN8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-03T19:13:25.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "raylib.h",
               "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h",
-              "RelativeDocumentMoniker": "raylib\\src\\raylib.h",
               "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\raylib\\src\\raylib.h",
-              "RelativeToolTip": "raylib\\src\\raylib.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-03T19:11:53.09Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "exercise-dessin-ed.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
-              "RelativeDocumentMoniker": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise-dessin-ed\\exercise-dessin-ed.cpp",
-              "RelativeToolTip": "exercise-dessin-ed\\exercise-dessin-ed.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-03T19:07:25.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T19:11:53.09Z"
             }
           ]
         }

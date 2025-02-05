@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C63Demo-Ed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e065570cc6ec9310ecae9970d62ba3ab9aeac6fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da536ce88856d1c8f9eeb88265fc3fd1a5df77b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("C63Demo-Ed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C63Demo-Ed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
