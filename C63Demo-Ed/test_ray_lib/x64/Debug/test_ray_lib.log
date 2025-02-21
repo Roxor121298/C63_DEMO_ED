@@ -1,8 +1,7 @@
-﻿  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
-  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.lib
-  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
-          3 fichier(s) copié(s).
+﻿  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
+  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
+          2 fichier(s) copié(s).
   test_ray_lib.c
-D:\code\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(119,28): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-D:\code\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(120,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-  test_ray_lib.vcxproj -> D:\code\C63_DEMO_ED\C63Demo-Ed\x64\Debug\test_ray_lib.exe
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(119,28): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(120,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
+  test_ray_lib.vcxproj -> C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\x64\Debug\test_ray_lib.exe

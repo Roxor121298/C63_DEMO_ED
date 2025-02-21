@@ -1,3 +1,3 @@
 ﻿  intro_c++_Ed.cpp
-D:\code\C63_DEMO_ED\C63Demo-Ed\intro_c++_Ed\intro_c++_Ed.cpp(87,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
-  intro_c++_Ed.vcxproj -> D:\code\C63_DEMO_ED\C63Demo-Ed\x64\Debug\intro_c++_Ed.exe
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\intro_c++_Ed\intro_c++_Ed.cpp(87,19): warning C4305: 'initialisation' : troncation de 'double' à 'float'
+  intro_c++_Ed.vcxproj -> C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\x64\Debug\intro_c++_Ed.exe

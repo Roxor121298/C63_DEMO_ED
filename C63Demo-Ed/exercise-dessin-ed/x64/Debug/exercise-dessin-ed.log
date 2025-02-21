@@ -1,9 +1,8 @@
-﻿  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
-  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.lib
-  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
-          3 fichier(s) copié(s).
+﻿  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
+  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
+          2 fichier(s) copié(s).
   exercise-dessin-ed.cpp
-D:\code\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(107,56): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
-D:\code\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(107,41): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
-D:\code\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(68,17): warning C4101: 'difference' : variable locale non référencée
-  exercise-dessin-ed.vcxproj -> D:\code\C63_DEMO_ED\C63Demo-Ed\x64\Debug\exercise-dessin-ed.exe
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(109,56): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(109,41): warning C4244: 'argument' : conversion de 'double' en 'int', perte possible de données
+C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\exercise-dessin-ed\exercise-dessin-ed.cpp(70,17): warning C4101: 'difference' : variable locale non référencée
+  exercise-dessin-ed.vcxproj -> C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\x64\Debug\exercise-dessin-ed.exe
