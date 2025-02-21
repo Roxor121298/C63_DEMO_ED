@@ -17,6 +17,7 @@ public:
 
 	//////////////////
 	//Attributs de classe
+	// depuis c++ 20 quand constexpr pour optimiser pour un literal sur un const
 	//////////////////
 	static constexpr int __TextOffsetY = 20;
 	static constexpr int __TextFontSize = 32;

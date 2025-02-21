@@ -24,6 +24,7 @@
     <ProjectGuid>{B66CB161-1295-473A-9C13-F50513902F57}</ProjectGuid>
     <RootNamespace>exercisedessined</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SimpleSquare</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
