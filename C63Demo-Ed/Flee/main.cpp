@@ -29,7 +29,7 @@ int main(void)
     constexpr int screenWidth = 1000;
     constexpr int screenHeight = 1000;
     constexpr int borderMargin = 50;
-    constexpr int nbFlee = 50;
+    constexpr int nbFlee = 5;
 
     constexpr Vector2 borderMin = { borderMargin , borderMargin };
     constexpr Vector2 borderMax = { screenWidth - borderMargin , screenHeight - borderMargin };
@@ -48,7 +48,7 @@ int main(void)
             static_cast<float>(GetRandomValue(borderMin.y, borderMax.y))
         };
 
-        float randomVelocity = static_cast<float>(100); // Vitesse entre 5.0 et 15.0
+        float randomVelocity = static_cast<float>(1000); // Vitesse entre 5.0 et 15.0 // maintenant fixed a 1000 wtv
         fleeList.push_back(make_shared<Flee>(randomPos, randomVelocity, borderMin, borderMax));
     }
 
@@ -80,6 +80,11 @@ int main(void)
 
         BeginDrawing();
         ClearBackground(BLUE);
+        // Dessin des limites de la zone
+        DrawLine(borderMin.x, borderMin.y, borderMin.x, borderMax.y, PURPLE);
+        DrawLine(borderMin.x, borderMin.y, borderMax.x, borderMin.y, PURPLE);
+        DrawLine(borderMax.x, borderMin.y, borderMax.x, borderMax.y, PURPLE);
+        DrawLine(borderMin.x, borderMax.y, borderMax.x, borderMax.y, PURPLE);
 
         // 5) Affichage du nombre de FPS en haut à gauche
         DrawText(TextFormat("FPS: %d", GetFPS()), 10, 10, 20, WHITE);
@@ -87,14 +92,10 @@ int main(void)
         // 6) Affichage du nombre total de puces en haut au milieu
         DrawText(TextFormat("Puces: %d", (int)fleeList.size()), screenWidth / 2 - 50, 10, 20, BLACK);
 
-        // 7) Affichage du nombre total de collisions en haut à droite
+        // 7) Affichage du no+bre total de collisions en haut à droite
         DrawText(TextFormat("Collisions: %d", (int)collisionEvents.size()), screenWidth - 200, 10, 20, RED);
 
-        // Dessin des limites de la zone
-        DrawLine(borderMin.x, borderMin.y, borderMin.x, borderMax.y, PURPLE);
-        DrawLine(borderMin.x, borderMin.y, borderMax.x, borderMin.y, PURPLE);
-        DrawLine(borderMax.x, borderMin.y, borderMax.x, borderMax.y, PURPLE);
-        DrawLine(borderMin.x, borderMax.y, borderMax.x, borderMax.y, PURPLE);
+
 
         // 8) Dessiner chaque puce
         for (auto& flee : fleeList)
