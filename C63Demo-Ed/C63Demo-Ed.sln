@@ -19,7 +19,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raylib", "raylib\projects\V
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exercise-dessin-ed", "exercise-dessin-ed\exercise-dessin-ed.vcxproj", "{5F757281-ABC3-4340-9C84-ACAA13DFA509}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "simple_square", "exercise_simplesquare\simple_square.vcxproj", "{B66CB161-1295-473A-9C13-F50513902F57}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimpleSquare", "exercise_simplesquare\simple_square.vcxproj", "{B66CB161-1295-473A-9C13-F50513902F57}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flee", "Flee\Flee.vcxproj", "{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -253,6 +255,30 @@ Global
 		{B66CB161-1295-473A-9C13-F50513902F57}.Release|x64.Build.0 = Release|x64
 		{B66CB161-1295-473A-9C13-F50513902F57}.Release|x86.ActiveCfg = Release|Win32
 		{B66CB161-1295-473A-9C13-F50513902F57}.Release|x86.Build.0 = Release|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|Any CPU.ActiveCfg = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|Any CPU.Build.0 = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|x64.ActiveCfg = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|x64.Build.0 = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|x86.ActiveCfg = Debug|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug.DLL|x86.Build.0 = Debug|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|Any CPU.Build.0 = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|x64.ActiveCfg = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|x64.Build.0 = Debug|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Debug|x86.Build.0 = Debug|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|Any CPU.ActiveCfg = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|Any CPU.Build.0 = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|x64.ActiveCfg = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|x64.Build.0 = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|x86.ActiveCfg = Release|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release.DLL|x86.Build.0 = Release|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|Any CPU.ActiveCfg = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|Any CPU.Build.0 = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|x64.ActiveCfg = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|x64.Build.0 = Release|x64
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|x86.ActiveCfg = Release|Win32
+		{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

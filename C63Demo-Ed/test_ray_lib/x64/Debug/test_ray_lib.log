@@ -1,7 +1,7 @@
-﻿  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
-  C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
-          2 fichier(s) copié(s).
-  test_ray_lib.c
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(119,28): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\test_ray_lib.c(120,29): warning C4244: '=' : conversion de 'int' en 'float', perte possible de données
-  test_ray_lib.vcxproj -> C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\x64\Debug\test_ray_lib.exe
+﻿  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.idb
+  Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+  D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\raylib.pdb
+  Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+          0 fichier(s) copié(s).
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: La commande "copy D:\code\C63_DEMO_ED\C63Demo-Ed\\build\raylib\bin\x64\Debug\* D:\code\C63_DEMO_ED\C63Demo-Ed\test_ray_lib\
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(156,5): error MSB3073: :VCEnd" s'est arrêtée avec le code 1.

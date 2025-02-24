@@ -1,7 +1,15 @@
 ﻿  raudio.c
   rcore.c
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(60,9): warning C4005: 'MAX_PATH' : redéfinition de macro
+  (compiler le fichier source '../../../src/rcore.c')
+      D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rcore.c(166,17):
+      voir la définition précédente de « MAX_PATH »
+  
 C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY' : redéfinition de macro
+  (compiler le fichier source '../../../src/rcore.c')
+      D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\external\glfw\include\GLFW\glfw3.h(123,11):
+      voir la définition précédente de « APIENTRY »
+  
   rmodels.c
   rglfw.c
   rshapes.c
@@ -9,4 +17,4 @@ C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(1
   rtextures.c
   utils.c
   Génération de code en cours...
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\raudio.c(1,1): error C1090: Échec de l'appel de l'API PDB, code d'erreur '3' : C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\bin\x64\Debug\raylib.pdb
+  raylib.vcxproj -> D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\bin\x64\Debug\raylib.lib

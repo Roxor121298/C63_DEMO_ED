@@ -1,6 +1,10 @@
 ﻿  CtorConstDebug.cpp
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\Projet_CtorConstDebug\CtorConstDebug\Goblin.h(1,9): warning C4068: pragma inconnu 'onc'
+D:\code\C63_DEMO_ED\C63Demo-Ed\Projet_CtorConstDebug\CtorConstDebug\Goblin.h(1,9): warning C4068: pragma inconnu 'onc'
+  (compiler le fichier source 'CtorConstDebug.cpp')
+  
   Goblin.cpp
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\Projet_CtorConstDebug\CtorConstDebug\Goblin.h(1,9): warning C4068: pragma inconnu 'onc'
+D:\code\C63_DEMO_ED\C63Demo-Ed\Projet_CtorConstDebug\CtorConstDebug\Goblin.h(1,9): warning C4068: pragma inconnu 'onc'
+  (compiler le fichier source 'Goblin.cpp')
+  
   Génération de code en cours...
-  CtorConstDebug.vcxproj -> C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\x64\Debug\CtorConstDebug.exe
+  CtorConstDebug.vcxproj -> D:\code\C63_DEMO_ED\C63Demo-Ed\x64\Debug\CtorConstDebug.exe
