@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\",
+  "WorkspaceRootPath": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFFDAAF6-B434-4855-85BB-A320551C7476}|Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CFFDAAF6-B434-4855-85BB-A320551C7476}|Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.vcxproj|solutionrelative:Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|solutionrelative:Exercice-FonctionnelleLamda\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|solutionrelative:Flee\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|solutionrelative:Exercice-FonctionnelleLamda\\Bouton.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|solutionrelative:Flee\\Flee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{BC2949EE-4259-464E-9B4D-1ECF85BEE41D}|Flee\\Flee.vcxproj|solutionrelative:Flee\\Flee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B66CB161-1295-473A-9C13-F50513902F57}|exercise_simplesquare\\simple_square.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B66CB161-1295-473A-9C13-F50513902F57}|exercise_simplesquare\\simple_square.vcxproj|solutionrelative:exercise_simplesquare\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B66CB161-1295-473A-9C13-F50513902F57}|exercise_simplesquare\\simple_square.vcxproj|C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\SimpleSquare.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B66CB161-1295-473A-9C13-F50513902F57}|exercise_simplesquare\\simple_square.vcxproj|solutionrelative:exercise_simplesquare\\SimpleSquare.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA6A1542-5905-42DD-8FBE-60C1B4044864}|Exercice-FonctionnelleLamda\\Exercice-FonctionnelleLamda.vcxproj|solutionrelative:Exercice-FonctionnelleLamda\\Bouton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,86 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Demo-FOnctionnelleLambda.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp",
-              "RelativeDocumentMoniker": "Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp",
-              "RelativeToolTip": "Demo-FOnctionnelleLambda\\Demo-FOnctionnelleLambda.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T18:50:50.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Flee.h",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.h",
-              "RelativeDocumentMoniker": "Flee\\Flee.h",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.h",
-              "RelativeToolTip": "Flee\\Flee.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-24T15:34:36.467Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Flee.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.cpp",
-              "RelativeDocumentMoniker": "Flee\\Flee.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\Flee.cpp",
-              "RelativeToolTip": "Flee\\Flee.cpp",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T15:34:18.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\main.cpp",
-              "RelativeDocumentMoniker": "Flee\\main.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\Flee\\main.cpp",
-              "RelativeToolTip": "Flee\\main.cpp",
-              "ViewState": "AQIAAAcAAAAAAAAAAAArwBwAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-24T15:33:35.235Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "main_etu.cpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\main_etu.cpp",
-              "RelativeDocumentMoniker": "exercise_simplesquare\\main_etu.cpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\main_etu.cpp",
-              "RelativeToolTip": "exercise_simplesquare\\main_etu.cpp",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAANAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\main.cpp",
+              "RelativeDocumentMoniker": "Exercice-FonctionnelleLamda\\main.cpp",
+              "ToolTip": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\main.cpp",
+              "RelativeToolTip": "Exercice-FonctionnelleLamda\\main.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-21T17:11:34.857Z"
+              "WhenOpened": "2025-02-24T22:32:36.42Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SimpleSquare.hpp",
-              "DocumentMoniker": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\SimpleSquare.hpp",
-              "RelativeDocumentMoniker": "exercise_simplesquare\\SimpleSquare.hpp",
-              "ToolTip": "C:\\Users\\1661026\\Documents\\C63_DEMO_ED\\C63Demo-Ed\\exercise_simplesquare\\SimpleSquare.hpp",
-              "RelativeToolTip": "exercise_simplesquare\\SimpleSquare.hpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAdAAAA",
+              "DocumentIndex": 2,
+              "Title": "Bouton.h",
+              "DocumentMoniker": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.h",
+              "RelativeDocumentMoniker": "Exercice-FonctionnelleLamda\\Bouton.h",
+              "ToolTip": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.h",
+              "RelativeToolTip": "Exercice-FonctionnelleLamda\\Bouton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-21T17:06:23.737Z"
+              "WhenOpened": "2025-02-24T22:30:18.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bouton.cpp",
+              "DocumentMoniker": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.cpp",
+              "RelativeDocumentMoniker": "Exercice-FonctionnelleLamda\\Bouton.cpp",
+              "ToolTip": "D:\\code\\C63_DEMO_ED\\C63Demo-Ed\\Exercice-FonctionnelleLamda\\Bouton.cpp",
+              "RelativeToolTip": "Exercice-FonctionnelleLamda\\Bouton.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T21:34:20.203Z",
+              "EditorCaption": ""
             }
           ]
         }

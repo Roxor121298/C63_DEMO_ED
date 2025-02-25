@@ -1,8 +1,8 @@
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\raudio.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\raudio.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rcore.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rcore.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rmodels.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rmodels.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rglfw.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rglfw.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rshapes.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rshapes.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rtext.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rtext.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\rtextures.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rtextures.obj
-C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\raylib\src\utils.c;C:\Users\1661026\Documents\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\utils.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\raudio.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\raudio.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rcore.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rcore.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rmodels.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rmodels.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rglfw.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rglfw.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rshapes.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rshapes.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rtext.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rtext.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\rtextures.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\rtextures.obj
+D:\code\C63_DEMO_ED\C63Demo-Ed\raylib\src\utils.c;D:\code\C63_DEMO_ED\C63Demo-Ed\build\raylib\obj\x64\Debug\utils.obj

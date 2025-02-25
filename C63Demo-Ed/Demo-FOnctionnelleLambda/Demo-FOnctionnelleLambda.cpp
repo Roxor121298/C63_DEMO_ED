@@ -20,13 +20,13 @@ int SUB(int A, int B)
 //fonction de seconde ordre ex
 
 
-std::function<int(int, int)> funcCreator(std::function<int(int, int)> funky) {
-
-
-}
+//std::function<int(int, int)> funcCreator(std::function<int(int, int)> funky) {
+//
+//    return 1;
+//}
 
 int operatorA(int A, int B) {
-
+    return 1;
 }
 
 int main()
