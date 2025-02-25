@@ -8,6 +8,17 @@
 
 using namespace std;
 
+Color GetRandomColor() {
+    Color c;
+    c.r = GetRandomValue(0, 255);
+    c.g = GetRandomValue(0, 255);
+    c.b = GetRandomValue(0, 255);
+    c.a = 255;
+    return c;
+}
+
+
+
 struct CollisionEvent
 {
     weak_ptr<Flee> _LowerIndexFlee;
@@ -24,12 +35,18 @@ struct CollisionEvent
     }
 };
 
+
+
 int main(void)
 {
+
+
+
+
     constexpr int screenWidth = 1000;
     constexpr int screenHeight = 1000;
     constexpr int borderMargin = 50;
-    constexpr int nbFlee = 5;
+    constexpr int nbFlee = 2000;
 
     constexpr Vector2 borderMin = { borderMargin , borderMargin };
     constexpr Vector2 borderMax = { screenWidth - borderMargin , screenHeight - borderMargin };
@@ -48,7 +65,7 @@ int main(void)
             static_cast<float>(GetRandomValue(borderMin.y, borderMax.y))
         };
 
-        float randomVelocity = static_cast<float>(1000); // Vitesse entre 5.0 et 15.0 // maintenant fixed a 1000 wtv
+        float randomVelocity = static_cast<float>(500); // Vitesse entre 5.0 et 15.0 // maintenant fixed a 1000 wtv
         fleeList.push_back(make_shared<Flee>(randomPos, randomVelocity, borderMin, borderMax));
     }
 
@@ -79,7 +96,7 @@ int main(void)
         }
 
         BeginDrawing();
-        ClearBackground(BLUE);
+        ClearBackground(BLACK);
         // Dessin des limites de la zone
         DrawLine(borderMin.x, borderMin.y, borderMin.x, borderMax.y, PURPLE);
         DrawLine(borderMin.x, borderMin.y, borderMax.x, borderMin.y, PURPLE);
@@ -112,7 +129,8 @@ int main(void)
             if (flee1 && flee2)
             {
                 DrawRectangleV(collision->_Position, { 5, 5 }, Color{ 255, 255, 255, 25 });
-                DrawLineEx(flee1->GetPosition(), flee2->GetPosition(), 2, Color{ 25, 25, 25, 25 });
+
+                DrawLineEx(flee1->GetPosition(), flee2->GetPosition(), 2, GetRandomColor());
             }
         }
 

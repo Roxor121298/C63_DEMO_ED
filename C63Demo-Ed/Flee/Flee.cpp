@@ -1,6 +1,8 @@
 #include "Flee.h"
 #include <raymath.h>
 
+static const Color noColor = { 0, 0, 0, 0 };
+
 Flee::Flee(const Vector2& InPosition, float InVelocity, const Vector2& InBordersMin, const Vector2& InBordersMax)
 	:_Position(InPosition)
 	, _Velocity(InVelocity)
@@ -9,6 +11,7 @@ Flee::Flee(const Vector2& InPosition, float InVelocity, const Vector2& InBorders
 {
 	float randomX = static_cast<float>(GetRandomValue(0, 100));
 	float randomY = static_cast<float>(GetRandomValue(0, 100));
+
 	_Direction = Vector2{ randomX, randomY };
 	_Direction = Vector2Normalize(_Direction);
 }
@@ -46,7 +49,8 @@ bool Flee::CollideWith(weak_ptr<const Flee> otherFlee) const
 
 void Flee::Draw() const
 {
-	DrawCircle(static_cast<int>(_Position.x), static_cast<int>(_Position.y), static_cast<int>(__Radius), GREEN);
+
+	DrawCircle(static_cast<int>(_Position.x), static_cast<int>(_Position.y), static_cast<int>(__Radius), noColor);
 }
 
 const Vector2& Flee::GetPosition() const
