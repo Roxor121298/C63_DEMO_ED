@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo_Test_Texture", "Demo_Test_Texture\Demo_Test_Texture.csproj", "{594E3190-DFAF-491D-A76E-21F815A8C8ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{594E3190-DFAF-491D-A76E-21F815A8C8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594E3190-DFAF-491D-A76E-21F815A8C8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594E3190-DFAF-491D-A76E-21F815A8C8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594E3190-DFAF-491D-A76E-21F815A8C8ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BBEA374-80D8-40B0-A67F-8A98D41C65C2}
+	EndGlobalSection
+EndGlobal
